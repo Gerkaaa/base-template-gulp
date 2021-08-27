@@ -1,0 +1,35 @@
+{
+  "name": "base-template-gulp",
+  "version": "1.0.0",
+  "description": "Base template with gulp",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/IlonaArt/base-template-gulp.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/IlonaArt/base-template-gulp/issues"
+  },
+  "homepage": "https://github.com/IlonaArt/base-template-gulp#readme",
+  "devDependencies": {
+    "browser-sync": "^2.26.3",
+    "del": "^3.0.0",
+    "gulp": "^4.0.0",
+    "gulp-autoprefixer": "^6.0.0",
+    "gulp-clean-css": "^3.10.0",
+    "gulp-imagemin": "^4.1.0",
+    "gulp-sass": "^4.0.2",
+    "gulp-sourcemaps": "^2.6.4",
+    "gulp-uglify": "^3.0.1",
+    "node-normalize-scss": "^8.0.0",
+    "node-sass": "^6.0.1"
+  },
+  "dependencies": {
+    "bootstrap": "^4.6.0"
+  }
+}
