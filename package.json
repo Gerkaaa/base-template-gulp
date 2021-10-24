@@ -4,18 +4,11 @@
   "description": "Base template with gulp",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
-  "repository": {
-    "type": "git",
-    "url": "git+https://github.com/IlonaArt/base-template-gulp.git"
+    "dev": "gulp dev",
+    "build": "gulp build"
   },
   "author": "",
   "license": "ISC",
-  "bugs": {
-    "url": "https://github.com/IlonaArt/base-template-gulp/issues"
-  },
-  "homepage": "https://github.com/IlonaArt/base-template-gulp#readme",
   "devDependencies": {
     "browser-sync": "^2.26.3",
     "del": "^3.0.0",
